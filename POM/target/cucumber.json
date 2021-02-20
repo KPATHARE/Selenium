@@ -1,0 +1,542 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-02-20T06:56:30.202Z",
+        "line": 2,
+        "name": "Positive",
+        "description": "",
+        "id": "enter;positive",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 204993524200,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user is on main page",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_is_on_main_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4417945500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user clicks on shop menu",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_clicks_on_shop_menu()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2619473700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user clicks on home menu",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_clicks_on_home_menu()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 333827700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is on first slide",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_is_on_first_slide()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 297871900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user is on second slide",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_is_on_second_slide()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 272631600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user is on third slide",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_is_on_third_slide()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Enter",
+    "description": "",
+    "id": "enter",
+    "keyword": "Feature",
+    "uri": "file:feature/home.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-02-20T07:00:03.312Z",
+        "line": 2,
+        "name": "positive scenario",
+        "description": "",
+        "id": "arrivals-feature;positive-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10266794200,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user is on main page",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_is_on_main_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4511935300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user clicks on shop menu",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_clicks_on_shop_menu()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4275149900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user clicks on home menu",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_clicks_on_home_menu()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3916626800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is on arrivals",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_is_on_arrivals()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Arrivals Feature",
+    "description": "",
+    "id": "arrivals-feature",
+    "keyword": "Feature",
+    "uri": "file:feature/home1.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-02-20T07:00:26.313Z",
+        "line": 2,
+        "name": "positive scenario",
+        "description": "",
+        "id": "arrivals-feature;positive-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 13318414500,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user is on main page",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_is_on_main_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5871681600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user clicks on shop menu",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_clicks_on_shop_menu()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1799494600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user clicks on home menu",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_clicks_on_home_menu()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 140323800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user click on first arrival",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_click_on_first_arrival()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1316087200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "move back",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.move_back()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//body/div[@id\u003d\u0027pagewrap\u0027]/div[@id\u003d\u0027body\u0027]/div[@id\u003d\u0027layout\u0027]/div[@id\u003d\u0027content\u0027]/div[@id\u003d\u0027page-22\u0027]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/img[1]\"}\n  (Session info: chrome\u003d88.0.4324.182)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027LIN51011453\u0027, ip: \u0027192.168.0.106\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002715.0.1\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\\Users\\KPATHARE\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:64636}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 46abe6d48c26aae942cc985c4a82edf7\n*** Element info: {Using\u003dxpath, value\u003d//body/div[@id\u003d\u0027pagewrap\u0027]/div[@id\u003d\u0027body\u0027]/div[@id\u003d\u0027layout\u0027]/div[@id\u003d\u0027content\u0027]/div[@id\u003d\u0027page-22\u0027]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/img[1]}\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat com.sun.proxy.$Proxy17.click(Unknown Source)\r\n\tat com.capgemini.page.HomePage.secondArrival(HomePage.java:71)\r\n\tat com.capgemini.stepdef.StepDef.user_click_on_second_arrival(StepDef.java:52)\r\n\tat ✽.user click on second arrival(file:///C:/practice/POM/feature/home2.feature:8)\r\n",
+              "duration": 10191929000,
+              "status": "failed"
+            },
+            "line": 8,
+            "name": "user click on second arrival",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_click_on_second_arrival()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "move back",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.move_back()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user click on third arrival",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_click_on_third_arrival()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "move back",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.move_back()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Arrivals Feature",
+    "description": "",
+    "id": "arrivals-feature",
+    "keyword": "Feature",
+    "uri": "file:feature/home2.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-02-20T07:00:59.014Z",
+        "line": 2,
+        "name": "positive scenario",
+        "description": "",
+        "id": "arrivals-feature;positive-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 12964803400,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user is on main page",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_is_on_main_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5981447300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user clicks on shop menu",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_clicks_on_shop_menu()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5360733000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user clicks on home menu",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_clicks_on_home_menu()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2639743300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user clicks on first arrival",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_clicks_on_first_arrival()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 533643900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user click on description",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_click_on_description()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Arrivals Feature",
+    "description": "",
+    "id": "arrivals-feature",
+    "keyword": "Feature",
+    "uri": "file:feature/home3.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-02-20T07:01:26.509Z",
+        "line": 2,
+        "name": "positive scenario",
+        "description": "",
+        "id": "arrivals-feature;positive-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 206577082100,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user is on main page",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_is_on_main_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4372438700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user clicks on shop menu",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_clicks_on_shop_menu()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d88.0.4324.182)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027LIN51011453\u0027, ip: \u0027192.168.0.106\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002715.0.1\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\\Users\\KPATHARE\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:64889}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: f676e99305ef2da3e2818f0956a7905c\n*** Element info: {Using\u003dxpath, value\u003d//a[contains(text(),\u0027Home\u0027)]}\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat com.sun.proxy.$Proxy17.click(Unknown Source)\r\n\tat com.capgemini.page.HomePage.clickhome(HomePage.java:53)\r\n\tat com.capgemini.stepdef.StepDef.user_clicks_on_home_menu(StepDef.java:26)\r\n\tat ✽.user clicks on home menu(file:///C:/practice/POM/feature/home4.feature:5)\r\n",
+              "duration": 4341585900,
+              "status": "failed"
+            },
+            "line": 5,
+            "name": "user clicks on home menu",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_clicks_on_home_menu()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 217200,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user clicks on first arrival",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_clicks_on_first_arrival()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 999000,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user click on reviews",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_click_on_reviews()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Arrivals Feature",
+    "description": "",
+    "id": "arrivals-feature",
+    "keyword": "Feature",
+    "uri": "file:feature/home4.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-02-20T07:05:01.828Z",
+        "line": 2,
+        "name": "positive scenario",
+        "description": "",
+        "id": "arrivals-feature;positive-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "error_message": "org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status\nfrom disconnected: received Inspector.detached event\n  (Session info: chrome\u003d88.0.4324.182)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027LIN51011453\u0027, ip: \u0027192.168.0.106\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002715.0.1\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.182, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\\Users\\KPATHARE\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:65201}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 66fd4b8fdad8e60ce04c9b62771e37eb\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)\r\n\tat com.capgemini.base.TestBase.init(TestBase.java:57)\r\n\tat com.capgemini.page.HomePage.\u003cinit\u003e(HomePage.java:46)\r\n\tat com.capgemini.stepdef.StepDef.user_is_on_main_page(StepDef.java:17)\r\n\tat ✽.user is on main page(file:///C:/practice/POM/feature/home5.feature:3)\r\n",
+              "duration": 4502462500,
+              "status": "failed"
+            },
+            "line": 3,
+            "name": "user is on main page",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_is_on_main_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5870600,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "user clicks on shop menu",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_clicks_on_shop_menu()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1003000,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "user clicks on home menu",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_clicks_on_home_menu()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 994200,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user clicks on first arrival",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.user_clicks_on_first_arrival()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1185200,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "again user add that into basket",
+            "match": {
+              "location": "com.capgemini.stepdef.StepDef.again_user_add_that_into_basket()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Arrivals Feature",
+    "description": "",
+    "id": "arrivals-feature",
+    "keyword": "Feature",
+    "uri": "file:feature/home5.feature",
+    "tags": []
+  }
+]
