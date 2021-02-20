@@ -1,4 +1,4 @@
-Feature: Arrivals Feature
+Feature: Add to basket Feature
 Scenario: positive scenario
 Given user is on main page
 When user clicks on shop menu
