@@ -1,4 +1,4 @@
-Feature: Enter
+Feature: show the only three slides
 Scenario: Positive
 Given user is on main page
 When user clicks on shop menu
